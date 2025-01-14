@@ -1,2 +1,5 @@
 [phases.setup]
 dotnet-sdk = "7.0"
+
+[phases.build]
+run = "dotnet publish MySpotifyServer.csproj -c Release -o out"
