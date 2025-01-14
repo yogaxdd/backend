@@ -1,0 +1,17 @@
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\MySpotifyServer.exe
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\out\web.config
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\appsettings.Development.json
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\appsettings.json
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\global.json
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\out\appsettings.Development.json
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\out\appsettings.json
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\out\global.json
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\out\MySpotifyServer.deps.json
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\out\MySpotifyServer.runtimeconfig.json
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\out\MySpotifyServer.staticwebassets.endpoints.json
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\MySpotifyServer.dll
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\MySpotifyServer.deps.json
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\MySpotifyServer.runtimeconfig.json
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\MySpotifyServer.pdb
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Yoga PC\Desktop\ScriptYoga\auralibackend-main\out\Microsoft.OpenApi.dll
